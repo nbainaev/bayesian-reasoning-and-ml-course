@@ -1,0 +1,7 @@
+# venv folder
+
+.venv/
+
+# local folder
+
+local/
